@@ -11,6 +11,7 @@ Return the maximum profit you can achieve from this transaction. If you cannot a
 ## Examples
 
 **Example 1:**
+
 ```
 Input: prices = [7,1,5,3,6,4]
 Output: 5
@@ -19,6 +20,7 @@ Note that buying on day 2 and selling on day 1 is not allowed because you must b
 ```
 
 **Example 2:**
+
 ```
 Input: prices = [7,6,4,3,1]
 Output: 0

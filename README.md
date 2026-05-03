@@ -1,13 +1,20 @@
 # DSA Practice
 
-This repository contains my Data Structures and Algorithms practice problems and solutions implemented in Python.
+This repository contains my solved LeetCode problems and Python solutions.
+Only include solutions you have solved on LeetCode.
 
 ## Project Structure
 
-- `problems/`: Contains problem statements, descriptions, and examples
-- `solutions/`: Python implementations of the solutions
-- `tests/`: Unit tests for the solutions
-- `notes/`: Personal notes, explanations, and algorithm insights
+- `arrays/`: Array and simple list problems
+- `strings/`: String and text processing problems
+- `linked_lists/`: Linked list problems
+- `trees/`: Tree problems
+- `graphs/`: Graph and grid problems
+- `dynamic_programming/`: DP problems
+- `sorting/`: Sorting and order-related problems
+- `stacks_queues/`: Stack and queue problems
+
+> Note: The folders are currently empty placeholders. Add only problems you actually solved on LeetCode.
 
 ## Getting Started
 
@@ -18,29 +25,22 @@ This repository contains my Data Structures and Algorithms practice problems and
    cd dsa-practice
    ```
 
-2. Ensure Python 3.14+ is installed (configured automatically in VS Code)
+2. Ensure Python 3.14+ is installed.
 
-3. Run solutions:
+3. Add a solved LeetCode problem file in the correct category folder.
+
+4. Run a solution directly:
 
    ```bash
-   python solutions/some_solution.py
+   python arrays/two_sum.py
    ```
 
-4. Run tests:
-   ```bash
-   python -m tests.test_problem_name
-   ```
-   (Tests are written as simple functions, no classes needed)
+## Guidelines
 
-## Coding Style
-
-- Solutions are implemented as simple Python functions (no classes unless needed for data structures)
-- Tests use basic `assert` statements in functions for simplicity
-- Focus on clean, readable code with comments
-
-## Contributing
-
-This is a personal practice repository. Feel free to fork and use for your own practice!
+- Only upload problems solved on LeetCode.
+- Use clear file names and keep solutions simple.
+- Prefer small, readable Python functions.
+- Add a short comment or note at the top of each file describing the problem.
 
 ## License
 
