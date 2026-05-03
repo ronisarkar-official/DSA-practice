@@ -12,6 +12,7 @@ This repository contains my Data Structures and Algorithms practice problems and
 ## Getting Started
 
 1. Clone this repository:
+
    ```bash
    git clone <your-repo-url>
    cd dsa-practice
@@ -20,6 +21,7 @@ This repository contains my Data Structures and Algorithms practice problems and
 2. Ensure Python 3.14+ is installed (configured automatically in VS Code)
 
 3. Run solutions:
+
    ```bash
    python solutions/some_solution.py
    ```
