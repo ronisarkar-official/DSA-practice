@@ -28,21 +28,15 @@ This repository contains my Data Structures and Algorithms practice problems and
 
 4. Run tests:
    ```bash
-   python -m pytest tests/
+   python -m tests.test_problem_name
    ```
+   (Tests are written as simple functions, no classes needed)
 
-## Topics Covered
+## Coding Style
 
-- Arrays
-- Linked Lists
-- Stacks
-- Queues
-- Trees
-- Graphs
-- Sorting
-- Searching
-- Dynamic Programming
-- And more...
+- Solutions are implemented as simple Python functions (no classes unless needed for data structures)
+- Tests use basic `assert` statements in functions for simplicity
+- Focus on clean, readable code with comments
 
 ## Contributing
 
